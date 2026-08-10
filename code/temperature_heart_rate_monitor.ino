@@ -8,7 +8,7 @@ float temp = 0;
 
 SoftwareSerial ser(9, 10);
 
-// Credentials removed
+// Credentials place holder
 String apiKey = "YOUR_THINGSPEAK_API_KEY";
 
 // Variables
