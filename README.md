@@ -97,6 +97,6 @@ String wifiPassword = "YOUR_WIFI_PASSWORD";
 
 ## Contributors
 
-- Mansiba Gohil
-- Nidhi Dhinoja
-- Hitesh Jethava
+- Mansiba Gohil,
+- Nidhi Dhinoja,
+- Hitesh Jethava.
