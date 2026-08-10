@@ -63,8 +63,6 @@ String wifiName = "YOUR_WIFI_NAME";
 String wifiPassword = "YOUR_WIFI_PASSWORD";
 ```
 
-Never commit real Wi-Fi passwords or API keys.
-
 ### Steps
 
 1. Install the Arduino IDE.
