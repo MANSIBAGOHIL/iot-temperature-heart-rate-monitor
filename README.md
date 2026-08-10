@@ -5,7 +5,7 @@ Arduino and IoT prototype that measures temperature and pulse rate, displays rea
 
 An Arduino-based prototype that reads body-temperature and pulse-sensor signals, displays the results on a 16x2 LCD, and sends the readings to ThingSpeak through an ESP8266-01 Wi-Fi module.
 
-> This was an academic sensor-interfacing project. It is an educational prototype, not a calibrated or approved medical device.
+> This was an academic sensor-interfacing project in 2021. It is an educational prototype, not a calibrated or approved medical device.
 
 ## Technologies and Components
 
